@@ -5,10 +5,4 @@ function MyHeader() {
     );
   }
 
-  export default function MyApp() {
-    return (
-      <div>
-        <MyHeader/>
-        </div>
-  );
-}
+  export default MyHeader;
